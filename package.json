@@ -117,7 +117,7 @@
   },
   "dependencies": {
     "ajv": "6.12.3",
-    "async": "3.2.0",
+    "async": "3.2.2",
     "commander": "2.20.3",
     "js-yaml": "3.13.1",
     "json-schema-merge-allof": "0.7.0",
